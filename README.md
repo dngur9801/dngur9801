@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=next.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>&nbsp
@@ -18,6 +20,8 @@
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/electron-47848F?style=flat-square&logo=electron&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br><br><br><br>
