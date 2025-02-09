@@ -20,7 +20,6 @@
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/electron-47848F?style=flat-square&logo=electron&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
@@ -29,7 +28,10 @@
   <h3 align="center">😎 Me 😎</h3>
    <a href="https://velog.io/@dngur9801"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dngur9801"/></a>&nbsp
    <a href="mailto:dngur9801@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dngur9801@gmail.com"/></a>
-
+  <br><br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dngur9801&layout=compact)
+  
 <div/>
 
 <!--
