@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=60&desc=woohyuk's%20github%20profile&descAlignY=62&descAlign=63" />
+
 
 
 <br>
