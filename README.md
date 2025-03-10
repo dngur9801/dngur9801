@@ -32,8 +32,8 @@
   <ul>
     <li><a href="https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Adngur9801+is%3Amerged">zustand</a></li>
     <li><a href="https://github.com/modern-agile-team/modern-kit/pulls?q=is%3Apr+author%3Adngur9801+is%3Aclosed">modern-kit</a></li>
-    <li><a href="https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Aclosed+author%3Adngur9801">es-toolkit</a></li>
-    <li><a href="https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Adngur9801+is%3Amerged">es-hangul</a></li>
+    <li><a href="https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Aclosed+author%3Adngur9801">es-toolkit</a></li>
+    <li><a href="https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Aclosed+author%3Adngur9801">es-hangul</a></li>
     <li><a href="https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Adngur9801+is%3Aclosed">suspensive</a></li>
   </ul>
 </div>
