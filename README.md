@@ -1,10 +1,3 @@
-
-
-
-
-
-<br>
-
 <div align="center">
   <h3>⚒️ Tech Stack ⚒️</h3>
   <p>used at least once</p>
@@ -33,6 +26,19 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dngur9801&layout=compact)
   
 <div/>
+
+<div align="left">
+  <h2>💫 Contribute</h2>
+  <ul>
+    <li><a href="https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Adngur9801+is%3Amerged">zustand</a></li>
+    <li><a href="https://github.com/modern-agile-team/modern-kit/pulls?q=is%3Apr+author%3Adngur9801+is%3Aclosed">modern-kit</a></li>
+    <li><a href="https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Aclosed+author%3Adngur9801">es-toolkit</a></li>
+    <li><a href="https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Adngur9801+is%3Amerged">es-hangul</a></li>
+    <li><a href="https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Adngur9801+is%3Aclosed">suspensive</a></li>
+  </ul>
+</div>
+
+
 
 <!--
 **dngur9801/dngur9801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
