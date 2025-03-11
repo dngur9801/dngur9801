@@ -30,6 +30,7 @@
 <div align="left">
   <h2>💫 Contribute</h2>
   <ul>
+    <li><a href="https://github.com/TanStack/query/pulls?q=is%3Apr+is%3Aclosed+author%3Adngur9801">@tanstack/query</a></li>
     <li><a href="https://github.com/pmndrs/zustand/pulls?q=is%3Apr+author%3Adngur9801+is%3Amerged">zustand</a></li>
     <li><a href="https://github.com/modern-agile-team/modern-kit/pulls?q=is%3Apr+author%3Adngur9801+is%3Aclosed">modern-kit</a></li>
     <li><a href="https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Aclosed+author%3Adngur9801">es-toolkit</a></li>
